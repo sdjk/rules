@@ -1,0 +1,23 @@
+# AppleTV
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+
+DOMAIN-SUFFIX,tv.g.apple.com
+DOMAIN-SUFFIX,tv.v.aaplimg.com
+DOMAIN,tv.apple.com.akadns.net
+
+DOMAIN-SUFFIX,applemusic.apple
+DOMAIN-SUFFIX,itun.es
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.ca
+DOMAIN-SUFFIX,itunes.co
+DOMAIN-SUFFIX,itunes.co.th
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.hk
+DOMAIN-SUFFIX,itunes.mx
+DOMAIN-SUFFIX,itunes.org
+DOMAIN-SUFFIX,itunes.us
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN,itunes.apple.com.cdn20.com	
+DOMAIN-KEYWORD,e126408.dscd
