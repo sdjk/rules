@@ -24,6 +24,3 @@ DOMAIN-SUFFIX,itunes.us
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN,itunes.apple.com.cdn20.com	
 DOMAIN-KEYWORD,e126408.dscd
-
-
-IP-CIDR,23.194.116.74/24,no-resolve
