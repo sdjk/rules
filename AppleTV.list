@@ -3,7 +3,7 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,tv.g.apple.com
 DOMAIN-SUFFIX,tv.v.aaplimg.com
 DOMAIN-SUFFIX,dscw11.akamai.net
