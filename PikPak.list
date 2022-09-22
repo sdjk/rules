@@ -2,3 +2,4 @@
 DOMAIN-SUFFIX,mypikpak.com
 IP-CIDR,161.117.0.0/16,no-resolve
 IP-CIDR,47.240.0.0/14,no-resolve
+IP-CIDR,8.208.0.0/12,no-resolve
